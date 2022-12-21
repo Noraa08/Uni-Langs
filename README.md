@@ -1,7 +1,6 @@
 # NecoBot Langs
-
-## Source code of the languages ​​used by the bot.
-feel free to contribute in languages ​​😊
+Source code of the **languages** ​​used by the **bot**.
+Feel free to contribute in **languages** ​​:)
 
 <br>
 
